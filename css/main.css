@@ -1,0 +1,82 @@
+header {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("../img/grupal.jpg");
+  height: 620px;
+}
+
+.logo {
+	width: 310px;
+	height: 100px;
+	position: relative;
+	right: -270px;
+	padding-top: 50px;
+}
+.col-2 {
+	width: 180px;
+	height: 70px;
+	background: #FCB739;
+	position: relative;
+	right: -180px;
+	bottom: -50px;
+}
+.col-2 p {
+	position: relative;
+	bottom: -20px;
+	right: -50px;
+}
+.imagen {
+	width: 300px;
+	height: 200px;
+	display: inline-block;
+}
+.caja{
+	position: relative;
+	bottom: -600px;
+	display: inline-block;
+	margin: 10px;
+	padding-bottom: 50px;
+}
+.cajaprincipal {
+	width: 1000px;
+	position: relative;
+	top: -500px;
+}
+.caja p {
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+	font-size: 19px;
+}
+td {
+	padding: 10px;
+}
+table {
+	position: relative;
+	right: -200px;
+	bottom: -20px;
+}
+.footer {
+	height: 110px;
+	width: 1270px;
+	background: #323230;
+	position: relative;
+	bottom: -150px;
+	left: -170px;
+
+}
+
+.footer p {
+	color: white;
+	position: relative;
+	bottom: -40px;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+    color:#00AFFD;
+}
+.skype {
+	position: relative;
+	bottom: -7px;
+}
